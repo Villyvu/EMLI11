@@ -1,0 +1,8 @@
+Pump script executed at 2023-05-16T13:09:01 CEST
+Pump script executed at 2023-05-16T13:10:01 CEST
+Pump script executed at 2023-05-16T13:11:01 CEST
+Pump script executed at 2023-05-16T13:12:01 CEST
+Pump script executed at 2023-05-16T13:13:01 CEST
+Pump script executed at 2023-05-16T13:14:01 CEST
+Pump script executed at 2023-05-18T12:00:01 CEST
+/home/pi/emli_project/pump.sh: line 3: /dev/ttyACM0: Device or resource busy

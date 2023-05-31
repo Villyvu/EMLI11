@@ -1,0 +1,4 @@
+1  *    * * *   root    bash /home/pi/thingspeak.sh
+0  */12 * * * /bin/bash /home/pi/emli_project/pump.sh >> /home/pi/emli_project/>
+* * * * * /home/pi/emli_project/health_monitor/monitor.sh >> /home/pi/emli_proj>
+0 * * * * /home/pi/emli_project/moisture_check.sh
