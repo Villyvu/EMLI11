@@ -1,0 +1,13 @@
+[[inputs.mqtt_consumer]]
+	servers = [“tcp://localhost:1883”]
+	username = “my_user”
+	password = “embeddedlinux”
+	data_format = “value”
+	data_type = “integer”
+	topics = [
+			“my_user/temp”,
+			“my_user/moisture_level”,
+			“my_user/ambient_light”,
+			“my_user/plant_water_alarm”,
+			“my_user/pump_water_alarm”
+	]
