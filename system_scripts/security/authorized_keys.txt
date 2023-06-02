@@ -1,0 +1,2 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINsKEkey3e74YJ5jsDXi82mcky85neiCiN7v0XeBwQag yonus@yonus-ThinkPad-E15-Gen-2
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICZFkx3JjKjUProhejkMrmjZrGRXoXKtPNHPubhgs1Cc villyvu@VillyVuLinux
