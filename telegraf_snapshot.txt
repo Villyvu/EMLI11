@@ -9,5 +9,6 @@
 			“my_user/moisture_level”,
 			“my_user/ambient_light”,
 			“my_user/plant_water_alarm”,
-			“my_user/pump_water_alarm”
+			“my_user/pump_water_alarm”,
+			“my_user/pump”
 	]
