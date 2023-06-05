@@ -98,7 +98,7 @@ before = paths-debian.conf
 ignorecommand =
 
 # "bantime" is the number of seconds that a host is banned.
-bantime  = 60
+bantime  = 300
 
 # A host is banned if it has generated "maxretry" during the last "findtime"
 # seconds.
