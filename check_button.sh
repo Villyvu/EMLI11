@@ -5,7 +5,7 @@ while true; do
 
 	if [ "$response" -gt 0 ]; then
 		echo "PUMP"
-		mosquitto_pub -h localhost -p 1883 -u my_user -P embeddedlinux -t my_user/command/pump -m "pump"		
+		mosquitto_pub -h localhost -p 1883 -u my_user -P embeddedlinux -t my_user/command/pump -m "1"		
 	fi
 
 	sleep 2	
