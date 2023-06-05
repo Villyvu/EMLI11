@@ -14,7 +14,7 @@ while true; do
 	url="http://192.168.10.185/led/a/red/status"
 	response=$(curl "$url")
 
-	if [[ "$message" -eq "pump" && "$response" -eq 0 ]]; then
+	if [[ "$message" -eq "1" && "$response" -eq 0 ]]; then
 		echo p > /dev/ttyACM0
 	fi
 
